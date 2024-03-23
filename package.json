@@ -1,0 +1,14 @@
+{
+  "name": "diatics-test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "Kursat Korkmaz <kursat.korkmaz123@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
