@@ -104,8 +104,6 @@ mapController.liveList.push(tempLive);
 
 mapController.onEveryMovement((moveIndex) => {
   if (moveIndex === 1000) {
-    console.log("======= 1000. UNIT STATE =======");
-    console.log(mapController.movementCount);
     LiveListPrinter(mapController);
   }
 });
